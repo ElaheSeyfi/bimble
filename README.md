@@ -1,4 +1,4 @@
-# choffee shop
+# Bimble
 
 ![image (1)](https://github.com/user-attachments/assets/d28d81a8-8de4-462c-82d5-6e71720b786c)
 
